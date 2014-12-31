@@ -1,0 +1,48 @@
+/* Folha de Estilos - www.soares.eti.br */
+
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body { 
+    font: normal normal 1em/1.35 'Titillium Web', Arial, sans-serif;
+}
+
+h1 { font-size: 3em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1em; }
+
+html, body {height: 100%;}
+
+.main {
+    display: table;
+    background:#000;
+    position: relative;
+    height:100%;
+    width:100%;
+    min-height: 100%;
+}
+
+.main-header {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    padding-left: 60;
+    padding-right: 60;
+    width: 100%;
+    color: #fff;
+    padding: lem;
+}
+
+.main-header-center {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding-left: 60;
+    padding-right: 60;
+    width: 100%;
+    color: #fff;
+    padding: lem;
+}
